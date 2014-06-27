@@ -1,11 +1,11 @@
 {
-	"full_name": "Taylor \"Nekroze\" Lawson",
-	"email": "koniolog@gmail.com",
-	"github_username": "koniolog",
-	"project_name": "value on",
-	"repo_name": "alotofeffort",
-	"project_short_description": "Deploy static HTML sites to S3 with the simple 'alotofeffort' command.",
-	"release_date": "2014-12-12",
-	"year": "2014",
-	"version": "0.1.0"
+    "full_name": "koniolog",
+    "email": "koniolog@gmail.com",
+    "github_username": "koniolog",
+    "project_name": "value on",
+    "repo_name": "alotofeffort",
+    "project_short_description": "Deploy static HTML sites to S3 with the simple 'alotofeffort' command.",
+    "release_date": "2014-12-12",
+    "year": "2014",
+    "version": "0.1.0"
 }
