@@ -1,3 +1,5 @@
+forked to create a personal cookiecutter
+
 ======================
 cookiecutter-pypackage
 ======================
@@ -8,7 +10,7 @@ Cookiecutter template for a Python package. See https://github.com/audreyr/cooki
 * Pytest_ runner: Supports `unittest`, `pytest`, `nose` style tests and more
 * Travis-CI_: Ready for Travis Continuous integration testing
 * Tox_ testing: Setup to easily test for python 2.6, 2.7, 3.3 and PyPy_
-* Sphinx_ docs: Documentation raedy for generation with, for example, ReadTheDocs_
+* MkDocs_ docs: Documentation raedy for generation with, for example, ReadTheDocs_
 * Wheel_ support: Use the newest python package distribution standard from the get go
 
 Usage
@@ -16,7 +18,7 @@ Usage
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git
+    cookiecutter https://github.com/koniolog/cookiecutter-pypackage.git
 
 Then:
 
@@ -34,7 +36,10 @@ Don't worry, you have options:
 Similar Cookiecutter Templates
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* `audreyr/cookiecutter-pypackage`_: The original pypackage, uses unittest
+* `Nekroze/cookiecutter-pypackage`_: The original pypackage gives almost everything
+I need, but I like MkDocs's source readability and simplicity.
+
+
 for testing and other minor changes.
 
 Fork This
@@ -54,9 +59,9 @@ make my own packaging experience better.
 
 .. _Travis-CI: http://travis-ci.org/
 .. _Tox: http://testrun.org/tox/
-.. _Sphinx: http://sphinx-doc.org/
+.. _MkDocs: http://MkDocs.org/
 .. _ReadTheDocs: https://readthedocs.org/
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/Nekroze/cookiecutter-pypackage
+.. _`Nekroze/cookiecutter-pypackage`: https://github.com/Nekroze/cookiecutter-pypackage
 .. _Pytest: http://pytest.org/
 .. _PyPy: http://pypy.org/
 .. _Wheel: http://pythonwheels.com
