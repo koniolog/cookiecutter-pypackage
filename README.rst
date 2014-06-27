@@ -36,9 +36,7 @@ Don't worry, you have options:
 Similar Cookiecutter Templates
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* `Nekroze/cookiecutter-pypackage`_: The original pypackage gives almost everything
-I need, but I like MkDocs's source readability and simplicity.
-
+* `Nekroze/cookiecutter-pypackage`_: The original pypackage but using MkDocs instead of Sphinx
 
 for testing and other minor changes.
 
