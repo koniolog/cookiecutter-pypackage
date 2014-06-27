@@ -1,5 +1,7 @@
 forked to create a personal cookiecutter
 
+***Status = Broken, in-progres***
+
 ======================
 cookiecutter-pypackage
 ======================
